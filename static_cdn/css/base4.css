@@ -1,0 +1,28 @@
+h1 {
+	color:green;
+}
+
+.wmd-panel {
+	margin-right: 0px !important;
+    margin-left: 0px !important;		
+}
+ 
+blockquote {
+    padding: 10px 20px !important;
+    margin: 0 0 20px !important;
+    font-size: 17.5px !important;
+    border-left: 0px !important;
+}
+
+.comment-replay{
+	display:none;
+}
+
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-height: 750px;
+}
+
+	

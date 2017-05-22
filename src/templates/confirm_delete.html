@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% load urlify %}
+{% load crispy_forms_tags %}
+
+{% block head_title %}
+{{ instance.titulo }} | {{ block.super }}
+{% endblock head_title %}
+
+
+
+{% block content %}
+
+<div class='col-sm-6 col-sm-offset-3'>
+
+<h1>Borrar?</h1>
+		<form method="POST" action='.'>{% csrf_token %}
+			<p>Seguro que deseas borrar: "{{ object.content }}"?</p>
+			<input type='submit' value='Confirmar' class='btn btn-warning' />
+			<a href='{{ object.get_absolute_url }}' class='btn btn-default'>Cancelar</a>
+		</form>
+	</div>
+
+<hr/> 		
+
+{% endblock %}
+

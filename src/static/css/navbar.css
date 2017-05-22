@@ -1,0 +1,29 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-height: 750px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.navbar .navbar-default {
+    background-color: #172548 !important;
+    color:white !important;
+    border-color: #337ab7;
+} 
+    
+.navbar-default .navbar-brand {
+	color: #FFF;
+
+}
+
+.navbar-default .navbar-brand:hover {
+	color: #337ab7;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #150f48;
+}

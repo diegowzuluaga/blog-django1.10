@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nBracketHighlighter\n------------------\n\n  # BracketHighlighter 2.24.0\n  \n  New release!\n  \n  This release introduces some breaking changes to `bh_tag.sublime-settings`.  \n  If you have no local changes in this file, you should have no problems. If  \n  you do have local changes in this settings file, you will need to update  \n  to comply with recent changes.\n  \n  Please see `Preferences->Package Settings->BracketHighlighter->Changelog`  \n  for more info about the release.\n",
+			"settings":
+			{
+				"buffer_size": 526,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/django/ecommerce2",
+		"/D/django/ecommerce2/src",
+		"/D/django/ecommerce2/src/cart",
+		"/D/django/ecommerce2/src/cart/templates",
+		"/D/django/ecommerce2/src/cart/templates/carts",
+		"/D/django/ecommerce2/src/ecommerce2",
+		"/D/django/ecommerce2/src/ecommerce2/settings",
+		"/D/django/ecommerce2/src/ecommerce2/settings/__pycache__",
+		"/D/django/ecommerce2/src/newsletter",
+		"/D/django/ecommerce2/src/orders",
+		"/D/django/ecommerce2/src/orders/templates",
+		"/D/django/ecommerce2/src/orders/templates/orders",
+		"/D/django/ecommerce2/src/products",
+		"/D/django/ecommerce2/src/products/templates",
+		"/D/django/ecommerce2/src/products/templates/products",
+		"/D/django/ecommerce2/src/reportes",
+		"/D/django/ecommerce2/src/static_in_pro",
+		"/D/django/ecommerce2/src/static_in_pro/our_static",
+		"/D/django/ecommerce2/src/static_in_pro/our_static/js",
+		"/D/django/ecommerce2/src/templates"
+	],
+	"file_history":
+	[
+		"/D/django/ecommerce2/src/orders/models.py",
+		"/D/django/ecommerce2/src/cart/views.py",
+		"/D/django/ecommerce2/src/cart/admin.py",
+		"/D/django/ecommerce2/src/cart/models.py",
+		"/D/django/ecommerce2/src/products/templates/imprimir.html",
+		"/D/django/ecommerce2/src/products/views.py",
+		"/D/django/ecommerce2/src/products/urls.py",
+		"/D/django/ecommerce2/src/orders/views.py",
+		"/D/django/ecommerce2/src/templates/forms.html",
+		"/D/django/ecommerce2/src/ecommerce2/urls.py",
+		"/D/django/ecommerce2/src/products/templates/products/product_detail.html",
+		"/D/django/ecommerce2/src/ecommerce2/settings/old.settings.py",
+		"/D/django/ecommerce2/src/ecommerce2/settings/settings.py",
+		"/D/django/ecommerce2/src/ecommerce2/settings/base.py",
+		"/D/python34/Lib/site-packages/django/views/generic/base.py",
+		"/D/django110/miblog2/src/miblog2/settings.py",
+		"/D/django/ecommerce2/src/ecommerce2/settings/__pycache__/settings.py",
+		"/D/django/ecommerce2/src/ecommerce2/settings/production.py",
+		"/D/desarrollos Django/ecommerce2/src/ecommerce2/settings/local.py",
+		"/D/django/ecommerce2/src/ecommerce2/settings.pyc",
+		"/D/django110/miblog2/src/miblog2/urls.py",
+		"/D/django/demo/demo/apps/home/views.py",
+		"/D/django/demo/demo/apps/webServices/wsProductos/views.py",
+		"/D/django/demo/demo/apps/ventas/views.py",
+		"/D/django/demo/demo/apps/ventas/models.py",
+		"/D/django/demo/demo/templates/ventas/factura.html",
+		"/D/django/demo/demo/settings.py",
+		"/D/django/demo/demo/media/js/example1.js",
+		"/D/django/demo/demo/apps/ventas/urls.py",
+		"/D/django/demo/demo/templates/ventas/carrito.html",
+		"/D/django/demo/demo/templates/base.html",
+		"/D/django/demo/demo/apps/home/urls.py",
+		"/D/django/demo/demo/templates/home/productos.html",
+		"/D/django/demo/demo/static/css/style.css",
+		"/D/django/demo/demo/templates/home/SingleProducto.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/posts/views.py",
+		"/D/django110/miblog2/src/templates/base.html",
+		"/D/django110/miblog2/src/static/css/navbar1.css",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/comments/views.py",
+		"/D/Probar-Django-1.10/src/pd110/settings.py",
+		"/D/django110/miblog2/src/posts/urls.py",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/post_form.html",
+		"/D/django/demo/demo/apps/webServices/wsProductos/urls.py",
+		"/D/django/demo/demo/urls.py",
+		"/D/django110/miblog2/src/posts/views.py",
+		"/D/django/demo/demo/templates/ventas/addProducto.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Crear-un-Blog/src/templates/post_form.html",
+		"/D/desarrollos Django/ecommerce2/src/products/templates/products/products.html",
+		"/D/django110/src/pd110/views.py",
+		"/D/django/tienda/demo/apps/ventas/views.py",
+		"/D/django110/src/templates/base.html",
+		"/D/django110/src/templates/head_css.html",
+		"/D/django110/miblog2/src/static/css/base4.css",
+		"/D/django110/src/static_pro/static/css/custom.css",
+		"/D/django110/miblog2/src/templates/navbar.html",
+		"/D/django110/src/pd110/settings.py",
+		"/D/django110/miblog2/src/static/css/navbar.css",
+		"/D/django110/miblog2/src/db.sqlite3",
+		"/D/django110/miblog3/src/templates/base.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/base.html",
+		"/D/django110/src/templates/registration/registration_form.html",
+		"/D/django110/miblog2/src/comments/views.py",
+		"/D/django110/src/pd110/urls.py",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/login.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/registration_complete.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/registration_closed.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/activate.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/activation_complete.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/activation_email.txt",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/activation_email_subject.txt",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/logout.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/password_change_done.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/password_reset_complete.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/password_reset_done.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/registration/password_reset_email.html",
+		"/D/django110/miblog2/src/posts/utils.py",
+		"/D/django110/miblog2/src/templates/post_detail.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/post_detail.html",
+		"/D/django110/miblog2/src/comments/urls.py",
+		"/D/django110/miblog2/src/comments/models.py",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/confirm_delete.html",
+		"/D/django110/miblog2/src/templates/confirm_delete.html",
+		"/D/django110/miblog2/src/templates/base2.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/cuentas/views.py",
+		"/D/django110/miblog2/src/cuentas/views.py",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/cuentas/forms.py",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/form.html",
+		"/D/django110/miblog2/src/templates/form.html",
+		"/D/django110/miblog2/src/cuentas/forms.py",
+		"/D/django110/miblog2/src/posts/models.py",
+		"/D/django110/miblog2/src/static/css/base3.css",
+		"/D/django110/miblog2/src/templates/comment_hilo.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Avanzar-el-Blog/src/templates/comment_hilo.html",
+		"/D/django110/miblog2/src/templates/post_list.html",
+		"/D/django110/miblog2/src/static/css/base.css",
+		"/D/django110/miblog2/src/templates/post_form.html",
+		"/D/django110/miblog2/src/posts/forms.py",
+		"/D/django110/miblog2/src/comments/forms.py",
+		"/D/django110/miblog2/src/comments/admin.py",
+		"/D/django110/miblog2/src/static/css/base2.css",
+		"/D/django110/miblog2/src/comments/migrations/0001_initial.py",
+		"/D/django110/miblog2/static_cdn/css/base.css",
+		"/D/django110/miblog2/myvenv/Lib/site-packages/Django-1.10.dist-info/RECORD",
+		"/D/django110/miblog2/myvenv/Lib/site-packages/pip-7.1.2.dist-info/RECORD",
+		"/D/django110/miblog2/myvenv/Lib/site-packages/setuptools-18.2.dist-info/RECORD",
+		"/D/django110/miblog2/myvenv/Scripts/activate.bat",
+		"/D/django110/miblog2/myvenv/Scripts/Activate.ps1",
+		"/D/django110/miblog2/myvenv/Scripts/django-admin.py",
+		"/D/django110/miblog2/src/manage.py",
+		"/D/django110/miblog2/src/miblog2/wsgi.py",
+		"/D/django110/miblog1/src/posts/models.py",
+		"/D/django110/miblog1/src/posts/views.py",
+		"/D/Probar-Django-1.10/probar-django-1.10-Crear-un-Blog/src/posts/views.py",
+		"/D/django110/miblog1/src/templates/post_detail.html",
+		"/D/django110/miblog1/src/templates/post_list.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Crear-un-Blog/src/templates/post_list.html",
+		"/D/django110/miblog1/src/templates/messages_display.html",
+		"/D/django110/miblog1/src/posts/urls.py",
+		"/D/django110/miblog1/src/templates/post_form.html",
+		"/D/django110/miblog1/src/posts/forms.py",
+		"/D/django110/miblog1/src/blog1/settings.py",
+		"/D/django110/miblog1/src/templates/base.html",
+		"/D/Probar-Django-1.10/probar-django-1.10-Crear-un-Blog/src/posts/templatetags/urlify.py",
+		"/D/django110/miblog1/src/posts/templatetags/urlify.py",
+		"/D/django110/miblog1/src/posts/templatetags/__init__.py",
+		"/D/django110/miblog1/src/blog1/urls.py",
+		"/D/django110/miblog1/src/static/css/base.css",
+		"/D/django110/miblog1/src/templates/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"D:\\django\\ecommerce2\\src",
+			"D:\\django110\\miblog2\\src,D:\\django\\demo",
+			"D:\\django110\\miblog2\\src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"consulta",
+			"get_image_profile",
+			"$('#cuerpo_carrito').html(data)",
+			"Lorem",
+			"miblog",
+			"miblog2",
+			"miblog",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"miblog2",
+			"miblog",
+			"miblog2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"bracket_highlighter.busy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "miblog2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
